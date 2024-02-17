@@ -1,0 +1,2 @@
+# devops_git_assignment2
+github_practice_assignment 2 resolving merge conflicts
